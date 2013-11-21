@@ -57,6 +57,7 @@ Available options (and their defaults):
     keepAspectRatio (true)
     rotate          ('clock' for clockwise, 'cclock' for counter clockwise)
     fps             (specify the output frames per second)
+    keyframeRate    (insert a keyframe every `keyframeRate` frames)
     minFps          (specify the output minimum frames per second)
     skipVideo       (false)
     skipVideoFrames (0)*
